@@ -1,16 +1,5 @@
-.app-wrapper{
-    display:grid;
-    width: 1200px;
-    margin: 0 auto;
-
-    grid-template-areas:
-"h h"
-"n c";
-    grid-template-rows: 60px 1fr;
-    grid-template-columns: 2fr 10fr;
-}
-
-.app-wrapper-content{
+/*
+.content{
     margin: 10px ;
     grid-area: c;
     background-blend-mode: screen;
@@ -19,8 +8,17 @@
             linear-gradient(90deg, skyblue, transparent),
             linear-gradient(-90deg, coral, transparent);
 }
-
-.app-wrapper-content img{
+.content img{
     width:100%;
     height: 350px;
+}*/
+
+
+.profilic img{
+
+    width: 20%;
+    height: 20%;
+
+
+
 }

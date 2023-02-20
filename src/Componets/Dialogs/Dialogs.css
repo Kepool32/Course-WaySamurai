@@ -1,0 +1,27 @@
+.dialogs{
+    display: grid;
+
+    grid-template-columns: 2fr 10fr;
+}
+.dialogs-items{
+    padding:10px;
+}
+.messages{
+
+}
+.message{
+    padding:10px;
+}
+
+.items Navlink {
+
+    color:green;
+}
+.items Navlink.active{
+    color:palegreen;
+}
+.items img{
+    border-radius:50%;
+    width: 40px;
+    height: 40px;
+}

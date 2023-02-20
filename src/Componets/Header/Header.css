@@ -1,0 +1,14 @@
+.header{
+    margin: 10px ;
+    grid-area: h;
+    background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+}
+
+
+.header img{
+    width: 30px;
+}
+.login_block{
+    float:right;
+    color:white;
+}
